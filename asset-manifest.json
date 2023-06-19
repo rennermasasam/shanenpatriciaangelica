@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shanenpatriciaangelica/static/css/main.7be57563.css",
-    "main.js": "/shanenpatriciaangelica/static/js/main.946a1218.js",
+    "main.js": "/shanenpatriciaangelica/static/js/main.c271d1ea.js",
     "index.html": "/shanenpatriciaangelica/index.html",
     "main.7be57563.css.map": "/shanenpatriciaangelica/static/css/main.7be57563.css.map",
-    "main.946a1218.js.map": "/shanenpatriciaangelica/static/js/main.946a1218.js.map"
+    "main.c271d1ea.js.map": "/shanenpatriciaangelica/static/js/main.c271d1ea.js.map"
   },
   "entrypoints": [
     "static/css/main.7be57563.css",
-    "static/js/main.946a1218.js"
+    "static/js/main.c271d1ea.js"
   ]
 }
